@@ -31,13 +31,17 @@ li.menu_list:hover a.side {
 li.menu_list:hover .front {
   transform: rotateY(90deg);
 ## Screenshots
-
-   ![During the Work]( "/home/user/Desktop/Final Project/uib-final-project-Adrion10/screenshot/Screenshot-4.png")
+ ![During the Work]( "/home/user/Desktop/Final Project/uib-final-project-Adrion10/screenshot/Screenshot-4.png")
 
 ![]("/home/user/Desktop/Final Project/uib-final-project-Adrion10/screenshot/Screenshot-1.png")
 
 ![]("https://github.com/E06-2/uib-final-project-Adrion10/blob/main/screenshot/Screenshot-3.png")
 
+#### Helpful Links
+https://github.com/E06-2/uib-final-project-Adrion10/issues/2#issue-993833162
+>>>>>>> a2e191f18630ac9253054ce724574cba172509d7
+
+  
 ## Built With
 - HTML
 - CSS
@@ -56,9 +60,5 @@ Course teachers at DCI
 
 Give a ⭐️ if you like this project!
 
-<<<<<<< HEAD
-=======
-#### Helpful Links
-https://github.com/E06-2/uib-final-project-Adrion10/issues/2#issue-993833162
->>>>>>> a2e191f18630ac9253054ce724574cba172509d7
+
 
