@@ -56,4 +56,9 @@ Course teachers at DCI
 
 Give a ⭐️ if you like this project!
 
+<<<<<<< HEAD
+=======
+#### Helpful Links
+https://github.com/E06-2/uib-final-project-Adrion10/issues/2#issue-993833162
+>>>>>>> a2e191f18630ac9253054ce724574cba172509d7
 
