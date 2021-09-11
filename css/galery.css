@@ -160,7 +160,7 @@ text-align: center;
   animation: moveToRight 2s;
 }
 .text-box p:hover {
-  transform: scaleY(2);
+  transform: scaleY(1.3);
   color: rgb(245, 202, 10);
 }
 .hero-btn {
@@ -716,7 +716,7 @@ label:hover {
   margin: 0;
 }
 
-.footer-content h3 span {
+.footer-left >h3 ,span {
   color: #cfeb33;
 }
 

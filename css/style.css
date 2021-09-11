@@ -230,7 +230,7 @@ nav img {
 }
 .text-box p:hover {
   transform: scaleY(2);
-  color: rgb(245, 202, 10);
+  color: rgb(226, 68, 5);
 }
 .hero-btn {
   text-decoration: none;
@@ -354,7 +354,8 @@ nav img {
 /* +++++ Button Neon end +++++ */
 
 /* +++++ @media start +++++ */
-@media (max-width: 600px) {
+
+ @media (max-width: 600px) { 
   .nav > .nav-btn {
     display: inline-block;
     position: absolute;
@@ -377,10 +378,11 @@ nav img {
   .nav > .nav-links {
 	  position: absolute;
 	  right: 1rem;
+    width: 3rem;
     display: block;
     width: 20%;
     background-color: transparent;
-    height: 0px;
+    height: 0;
     transition: all 0.3s ease-in;
     overflow-y: hidden;
     top: 6rem;
@@ -397,7 +399,10 @@ nav img {
   .text-box > p {
     font-size: 2.5rem;
   }
-  .nav-links > ul > li {
+  .wrapper .static-txt .dynamic-txts{
+    font-size: 2rem;
+  }
+    .nav-links > ul > li {
     display: block;
   }
   .nav > .nav-links > a {

@@ -413,8 +413,8 @@ nav img {
   font-family: arial;
   font-size: 16px;
   margin: 0;
-  background: linear-gradient(to bottom right, #39f6ff, #200324);
-  min-height: 100vh;
+  background: linear-gradient(to bottom right, #ccdfe0, #200324);
+  min-height: 80vh;
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -518,6 +518,7 @@ nav img {
 .card:hover .over_pic:nth-of-type(4) {
   transform: translate(100%, 100%);
 }
+
 /* +++++ Card style end +++++ */
 
 /* +++++ Footer style start +++++ */
@@ -527,7 +528,7 @@ nav img {
 }
 .footer-content {
   background-color: #1e1f20;
-  box-shadow: 2px 2px 2px 0 rgba(248, 247, 237, 0.5);
+  box-shadow: 2px 2px 2px 0 rgba(231, 228, 9, 0.5);
   box-sizing: border-box;
   width: 100%;
   text-align: left;
@@ -548,20 +549,20 @@ nav img {
 }
 
 .footer-content > h3 {
-  color: #ffffff;
+  color: red;
   font: normal 3rem "Cookie", cursive;
   margin: 0;
 }
 
 .footer-content,
 h3 span {
-  color: #cfeb33;
+  color: #eb7d33;
 }
 
 .footer-content .footer-links {
   color: #fff;
-  margin: 2rem 0 1.2rem;
-  padding: 0;
+   margin: 2rem 0;
+  padding: 2rem 0;
 }
 
 .footer-content .footer-links a {
@@ -699,11 +700,10 @@ transform: scale(1.2);
   transform: scale(1.5);
 }
 
-@media (max-width: 700px) {
+@media (max-width: 600px) {
   .footer-content {
     font: bold 1.4rem sans-serif;
   }
-
   .footer-content .footer-left,
   .footer-content .footer-center,
   .footer-content .footer-right,
@@ -723,7 +723,7 @@ transform: scale(1.2);
 /* Media Query For Tablet */
 @media only screen and (min-width: 768px) {
   #services .service-bottom .service-item {
-    flex-basis: 45%;
+    flex-basis: 35%;
     margin: 2.5%;
   }
 }
@@ -731,10 +731,10 @@ transform: scale(1.2);
 /* End Media Query For Tablet */
 
 /* Media Query For Desktop */
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 374px) {
   #services .service-bottom .service-item {
     flex-basis: 22%;
-    margin: 1.5%;
+    margin: 2%;
   }
   .service-top {
     padding-left: 2rem;
