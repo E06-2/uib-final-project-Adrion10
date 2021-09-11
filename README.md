@@ -48,6 +48,7 @@ Think of this as an opportunity to present your work as you would in a professio
 Remember, this is not a competition! This is all about mutual support, sharing and positive encouragement.
 
 #### Helpful Links
+https://github.com/E06-2/uib-final-project-Adrion10/issues/2#issue-993833162
 
 - [Developer Portfolios to Inspire](https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137fb1743cae/)
 - [35 Web Developer Portfolio Examples](https://skillcrush.com/blog/web-developer-portfolios/)
