@@ -31,7 +31,7 @@ li.menu_list:hover a.side {
 li.menu_list:hover .front {
   transform: rotateY(90deg);
 ## Screenshots
- ![During the Work]( "/home/user/Desktop/Final Project/uib-final-project-Adrion10/screenshot/Screenshot-4.png")
+ ![During the Work]( "https://github.com/E06-2/uib-final-project-Adrion10/blob/main/screenshot/Screenshot-1.png")
 
 ![]("/home/user/Desktop/Final Project/uib-final-project-Adrion10/screenshot/Screenshot-1.png")
 
