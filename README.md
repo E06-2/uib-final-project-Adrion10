@@ -33,7 +33,7 @@ li.menu_list:hover .front {
 ## Screenshots
  ![During the Work]( "https://github.com/E06-2/uib-final-project-Adrion10/blob/main/screenshot/Screenshot-1.png")
 
-![]("/home/user/Desktop/Final Project/uib-final-project-Adrion10/screenshot/Screenshot-1.png")
+![]("screenshot/Screenshot-1.png")
 
 ![]("https://github.com/E06-2/uib-final-project-Adrion10/blob/main/screenshot/Screenshot-3.png")
 
