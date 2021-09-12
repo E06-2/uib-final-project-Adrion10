@@ -32,8 +32,9 @@ li.menu_list:hover .front {
   transform: rotateY(90deg);
 ## Screenshots
  ![During the Work]( "https://github.com/E06-2/uib-final-project-Adrion10/blob/main/screenshot/Screenshot-1.png")
- <img src="screenshot/Screenshot-3.png" width = "400px"/> 
- <img src="screenshot/Screenshot-1.png" width = "400px"/> 
+ <img src="screenshot/Screenshot-1.png" width = "500px"/>
+<img src="screenshot/Screenshot-3.png" width = "400px"/> 
+ 
 
 ## Built With
 - HTML
