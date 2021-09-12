@@ -34,7 +34,7 @@ li.menu_list:hover .front {
  ![During the Work]( "https://github.com/E06-2/uib-final-project-Adrion10/blob/main/screenshot/Screenshot-1.png")
 
 ![]("screenshot/Screenshot-1.png")
- <img src="screenshot/Screenshot-3.png" alt=""/> 
+ <img src="screenshot/Screenshot-3.png" width="400px"alt=" During the Work" /> 
 
 
 #### Helpful Links
